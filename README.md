@@ -1,2 +1,2 @@
 # signupAndLogin
-Signup  and login sample using spring boot spring security 
+Signup  and login sample using spring security 
